@@ -1,4 +1,5 @@
 # DSA-Lab1
-This line was edited on conflict-branch.
+This is a conflicting edit from conflict-branch.
+
 
 
